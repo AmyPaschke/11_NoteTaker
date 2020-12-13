@@ -8,7 +8,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static(path.join(__dirname, "./public")));
 
-require("./routes/htmlroutes");
+require("./routes/htmlroutes")(app);
 require("./routes/apiroutes");
 
 app.get("/notes", function (req, res) {

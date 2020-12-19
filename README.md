@@ -6,7 +6,7 @@ You can view this page on Heroku [here](https://peaceful-reaches-60139.herokuapp
 
 ## Motivation
 
-My motivation for this project was to successfully utilize and deploy a page to Heroku and practice my API calls.
+My motivation for this project was to successfully utilize and deploy a page to Heroku and practice my API calls. This project is useful for practicing with data bases.
 
 ## Screenshots
 
